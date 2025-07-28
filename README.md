@@ -1,0 +1,2 @@
+# devops-practice
+DAY 12 TASK OF WIPRO TRANING PROGRAM 
